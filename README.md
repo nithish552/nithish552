@@ -17,7 +17,7 @@ Artificial Intelligence and Data Science Student
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithish552&theme=dark&show_icons=true&&hide=issues,contribs)
+![Nithish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithish552&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
-[![Hareesh's github activity graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nithish552&bg_color=0b0909&color=9e4c98&line=aa2eb2&point=8b7e7e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+[![Nithish's github activity graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nithish552&bg_color=0b0909&color=9e4c98&line=aa2eb2&point=8b7e7e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
