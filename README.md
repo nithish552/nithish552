@@ -17,7 +17,15 @@ Artificial Intelligence and Data Science Student
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> 
-[![Nithish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithish552)](https://github.com/nithish552)
+
+## 📈 Stats 📉
+
+<a>
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=nithish552&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
+</a>
+<a>
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish552&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
+</a>
 
 
-[![Nithish's github activity graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nithish552&bg_color=0b0909&color=9e4c98&line=aa2eb2&point=8b7e7e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+[![Nithish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nithish552&bg_color=0b0909&color=9e4c98&line=aa2eb2&point=8b7e7e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
